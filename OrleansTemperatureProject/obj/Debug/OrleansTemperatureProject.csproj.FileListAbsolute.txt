@@ -1,0 +1,15 @@
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\bin\Debug\OrleansTemperatureProject.exe.config
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\bin\Debug\OrleansTemperatureProject.exe
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\bin\Debug\OrleansTemperatureProject.pdb
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\obj\Debug\OrleansTemperatureProject.csprojResolveAssemblyReference.cache
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\obj\Debug\OrleansTemperatureProject.csproj.CoreCompileInputs.cache
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\obj\Debug\OrleansTemperatureProject.exe
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\obj\Debug\OrleansTemperatureProject.pdb
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\bin\Debug\IoT.GrainClasses.dll
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\bin\Debug\IoT.GrainInterfaces.dll
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\bin\Debug\Orleans.dll
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\bin\Debug\System.Collections.Immutable.dll
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\bin\Debug\IoT.GrainClasses.pdb
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\bin\Debug\IoT.GrainInterfaces.pdb
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\bin\Debug\Orleans.xml
+D:\Projects\OrleansTemperatureProject\OrleansTemperatureProject\obj\Debug\OrleansTemperatureProject.csproj.CopyComplete

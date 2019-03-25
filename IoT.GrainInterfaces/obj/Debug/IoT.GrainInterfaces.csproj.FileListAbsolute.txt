@@ -1,0 +1,11 @@
+D:\Projects\OrleansTemperatureProject\IoT.GrainInterfaces\bin\Debug\IoT.GrainInterfaces.dll
+D:\Projects\OrleansTemperatureProject\IoT.GrainInterfaces\bin\Debug\Orleans.dll
+D:\Projects\OrleansTemperatureProject\IoT.GrainInterfaces\bin\Debug\System.Collections.Immutable.dll
+D:\Projects\OrleansTemperatureProject\IoT.GrainInterfaces\bin\Debug\Orleans.xml
+D:\Projects\OrleansTemperatureProject\IoT.GrainInterfaces\obj\Debug\IoT.GrainInterfaces.csprojResolveAssemblyReference.cache
+D:\Projects\OrleansTemperatureProject\IoT.GrainInterfaces\obj\Debug\IoT.GrainInterfaces.csproj.CoreCompileInputs.cache
+D:\Projects\OrleansTemperatureProject\IoT.GrainInterfaces\obj\Debug\IoT.GrainInterfaces.csproj.CopyComplete
+D:\Projects\OrleansTemperatureProject\IoT.GrainInterfaces\bin\Debug\IoT.GrainInterfaces.pdb
+D:\Projects\OrleansTemperatureProject\IoT.GrainInterfaces\obj\Debug\IoT.GrainInterfaces.dll
+D:\Projects\OrleansTemperatureProject\IoT.GrainInterfaces\obj\Debug\IoT.GrainInterfaces.pdb
+D:\Projects\OrleansTemperatureProject\IoT.GrainInterfaces\obj\Debug\IoT.GrainInterfaces.orleans.g.cs

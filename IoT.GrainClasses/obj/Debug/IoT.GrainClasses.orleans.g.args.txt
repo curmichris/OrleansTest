@@ -1,0 +1,8 @@
+/in:obj\Debug\IoT.GrainClasses.dll
+/out:D:\Projects\OrleansTemperatureProject\IoT.GrainClasses\obj\Debug\IoT.GrainClasses.orleans.g.cs
+/r:D:\Projects\OrleansTemperatureProject\IoT.GrainInterfaces\bin\Debug\IoT.GrainInterfaces.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Microsoft.CSharp.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll
+/r:D:\Projects\OrleansTemperatureProject\packages\Microsoft.Orleans.Core.1.5.0\lib\net461\Orleans.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Core.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll
